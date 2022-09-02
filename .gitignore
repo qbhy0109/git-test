@@ -10,3 +10,9 @@ test1.doc
 # file
 !test3.txt
 !test.txt
+
+
+# fork
+**/test2/**
+!**/test3/**
+
