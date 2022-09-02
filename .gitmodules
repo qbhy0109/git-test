@@ -4,3 +4,7 @@
 [submodule "submodule2"]
 	path = submodule2
 	url = git@github.com:qbhy0109/git-test.git
+[submodule "git-test"]
+	path = git-test
+	url = git@github.com:qbhy0109/git-test.git
+	branch = test
