@@ -1,3 +1,6 @@
 [submodule "submodule1"]
 	path = submodule1
 	url = git@gitee.com:qbhy2021/netdisk.git
+[submodule "submodule2"]
+	path = submodule2
+	url = git@github.com:qbhy0109/git-test.git
