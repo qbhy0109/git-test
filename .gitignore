@@ -4,6 +4,6 @@ test3.txt
 /test_dir/
 
 *.doc
-testfile1
+## testfile1
 test1.doc
 
