@@ -1,8 +1,12 @@
-# file
-!test3.txt
+
+*.doc
 
 # dir
 /test_dir/
 
 # test
 *.txt
+
+# file
+!test3.txt
+!test.txt
