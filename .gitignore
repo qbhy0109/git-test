@@ -10,7 +10,7 @@
 !test.txt
 
 test-ignore/
-!test-ignore/test1/
+!test-ignore/test1
 test-ignore/*
 !test-ignore/test1/*
 
